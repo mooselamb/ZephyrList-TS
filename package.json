@@ -1,0 +1,21 @@
+{
+  "name": "mxfin-scrapertest",
+  "version": "1.0.0",
+  "description": "Web scraping exercise for puppeteer Web Scraping Engineer position at MX Finance",
+  "main": "scraper.ts",
+  "scripts": {
+    "dev": "",
+    "tsc": "tsc --watch",
+    "test": "node compiled/scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.1.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
